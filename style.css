@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#main-container {
+    max-width: 1604px;
+    width: 100%;
+    padding: 96px;
+    background: #1B0E0F;
+    margin: 226px auto;
+}
+
+#main-container-content {
+    max-width: 1412px;
+    width: 100%;
+    padding: 96px 0;
+    background: #FFF;
+}
+
+#header-content {
+    width: 1280px;
+    padding: 0px 32px;
+    margin: 0 auto;
+}
+
+#our-blog {
+    text-align: center;
+    margin-bottom: 12px;
+    color: #002AFE;
+    text-align: center;
+    font-family: var(--Font-family-font-family-body, Inter);
+    font-size: var(--Font-size-text-md, 16px);
+    font-style: normal;
+    font-weight: 600;
+    line-height: var(--Line-height-text-md, 24px); /* 150% */    
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 24px;
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 60px; /* 125% */
+    letter-spacing: -0.96px;    
+}
+
+#header-content-para {
+    text-align: center;
+    color: #535862;
+    text-align: center;
+    font-family: var(--Font-family-font-family-body, Inter);
+    font-size: var(--Font-size-text-xl, 20px);
+    font-style: normal;
+    font-weight: 400;
+    line-height: var(--Line-height-text-xl, 30px);
+}
+
+#top-section, #middle-section, #bottom-section {
+    margin: 56px auto;
+    width: 1280px;
+    height: 462px;
+}
+
+
+#top-image, #middle-image, #bottom-image {
+    border-radius: 16px;
+    width: 600px;
+    height: 462px
+}
+
+#top-section-right, #middle-section-right, #bottom-section-right {
+    width: 584px;
+    height: 275px;
+    display: inline-block;
+    margin-left: 91px;
+    vertical-align: text-bottom;
+    margin-bottom: 93.5px;
+}
+
+#Design, #product, #Customer-Success {
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+
+h2 {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    margin-bottom: 8px;
+    width: 544px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#top-section-right-para, #middle-section-right-para, #bottom-section-right-para {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 23px; 
+    margin-bottom: 24px;
+}
+
+#natali {
+    vertical-align: middle;
+    margin-right: 8px;
+}
+
+#natali-date {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+
